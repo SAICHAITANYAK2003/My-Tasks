@@ -1,0 +1,13 @@
+.tasks-title {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #fff;
+}
+
+.no-tasks-found-title {
+  font-family: 'Roboto';
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
